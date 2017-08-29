@@ -22,7 +22,28 @@ header {
 .card {
   display: inline-block;
   width: 20%;
-  background: yellow;
+  background: #6600D4;
+  vertical-align:top;
+}
+
+.rice_spice {
+  display: inline-block;
+  width: 20%;
+  background: blue;
+  vertical-align:top;
+}
+
+.coco {
+  display: inline-block;
+  width: 20%;
+  background: #0094FF;
+  vertical-align:top;
+}
+
+.boro {
+  display: inline-block;
+  width: 20%;
+  background: #2912E8;
   vertical-align:top;
 }
 
